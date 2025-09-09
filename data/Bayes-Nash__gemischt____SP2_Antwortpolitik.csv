@@ -1,0 +1,19 @@
+SP2 Hand,Signal,P(glaubt)
+"3,3",tief,0.001
+"3,3",mittel,0.0
+"3,3",hoch,0.0
+"6,3",tief,0.389
+"6,3",mittel,0.0
+"6,3",hoch,0.0
+"6,6",tief,0.965
+"6,6",mittel,0.002
+"6,6",hoch,0.0
+"k,3",tief,0.994
+"k,3",mittel,0.489
+"k,3",hoch,0.0
+"k,6",tief,0.994
+"k,6",mittel,0.999
+"k,6",hoch,1.0
+"k,k",tief,0.0
+"k,k",mittel,0.0
+"k,k",hoch,0.0
